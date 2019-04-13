@@ -1,6 +1,7 @@
 Tidy Data Set Description
-This codebook describes the data set from the link provided. There are several variables contained in this data set.  
-The Tidy Data Set constains 180 rows and 82 columns. Each row has averaged variables for each subject and activity; see the following:
+
+This codebook describes the data set from the link provided in the README.md file. There are several variables contained in this data set, and each will be explained below.
+The Tidy Data Set contains 180 rows and 82 columns. Each row has averaged variables for each subject and activity; as follows:
 
 - subjectID: contains the numbers from 1-30 representing the subject ID
 - ActivityType, which refers to the activities assigned in the dataset
